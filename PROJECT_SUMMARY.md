@@ -1,8 +1,8 @@
-# QueueSmart — Intelligent Queue & Appointment Management System
+# Smart-Q — Intelligent Queue & Appointment Management System
 
 ## Overview
 
-**QueueSmart** is a web-based queue management system that modernises the traditional "take-a-number" experience found in banks, clinics, and service offices. It allows clients to join a virtual queue and receive a ticket, while service providers can manage their queue in real time — calling the next person in or scheduling them for a specific time.
+**Smart-Q** is a web-based queue management system that modernises the traditional "take-a-number" experience found in banks, clinics, and service offices. It allows clients to join a virtual queue and receive a ticket, while service providers can manage their queue in real time — calling the next person in or scheduling them for a specific time.
 
 The system bridges the gap between walk-in queuing and appointment booking by giving the service provider two simple actions: **"Come in now"** or **"Come at a specific time."**
 
@@ -91,7 +91,7 @@ Once the client has been served, the provider marks the ticket as **completed**,
 
 ## Example Use Cases
 
-| Scenario | How QueueSmart Helps |
+| Scenario | How Smart-Q Helps |
 |---|---|
 | **University Lecturer** | Students join the consultation queue online. The lecturer calls students one by one, or schedules some for later in the day. |
 | **Walk-in Clinic** | Patients check in and join the queue. The doctor calls "next" or tells a patient to return at 3 PM. |
